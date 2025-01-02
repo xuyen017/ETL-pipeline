@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5a620835-75c0-4636-925a-ca252587ec2b)## Hello everyone. Welcome my Data Engineer (ETL) project. We will talk about ETL job using Apache Spark with AWS Glue.
+## Hello everyone. Welcome my Data Engineer (ETL) project. We will talk about ETL job using Apache Spark with AWS Glue.
 
 # General model
 <figure>
